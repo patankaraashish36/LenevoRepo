@@ -14,3 +14,4 @@
 x=0.6
 y=0.7
 print(x+y)
+print(x-y)
